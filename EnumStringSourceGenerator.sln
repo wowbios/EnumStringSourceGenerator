@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumStringSourceGenerator", "src\EnumStringSourceGenerator\EnumStringSourceGenerator.csproj", "{D0703352-B022-4B8D-B7EB-09EDB5D231AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumToStringSourceGeneratorTest", "src\EnumToStringSourceGeneratorTest\EnumToStringSourceGeneratorTest.csproj", "{A3CEBF36-F964-446D-A1F1-C67A2A9CDC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0703352-B022-4B8D-B7EB-09EDB5D231AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0703352-B022-4B8D-B7EB-09EDB5D231AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0703352-B022-4B8D-B7EB-09EDB5D231AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0703352-B022-4B8D-B7EB-09EDB5D231AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CEBF36-F964-446D-A1F1-C67A2A9CDC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CEBF36-F964-446D-A1F1-C67A2A9CDC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CEBF36-F964-446D-A1F1-C67A2A9CDC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CEBF36-F964-446D-A1F1-C67A2A9CDC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1546B887-1E77-48FF-92EA-B1D3AB6E99A6}
+	EndGlobalSection
+EndGlobal
